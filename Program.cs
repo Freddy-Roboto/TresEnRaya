@@ -4,6 +4,8 @@ namespace Matriz
 {
     class Program
     {
+
+        //programa que simula el juego de TikTakToe
         static void Main(string[] args)
         {
             
